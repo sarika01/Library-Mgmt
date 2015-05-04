@@ -1,0 +1,25 @@
+To: test <haddocka01@gmail.com>
+Subject: Welcome to Library!
+Message-ID: <5064b8dc56b97c979ce50c20671d9942@localhost>
+Date: Sun, 26 Apr 2015 10:58:18 +0000
+From: Site Admin <admin@lms.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html lang=3D"en-US">
+=09<head>
+=09=09<meta charset=3D"utf-8">
+=09</head>
+=09<body>
+=09=09<h2>Welcome to my site</h2>
+
+=09=09<div>
+=09=09=09Your sign up details are below:
+=09=09</div>
+=09=09<div>Your registration is successful on Library Management System</di=
+v>
+=09=09<div>test </div>
+=09</body>
+</html>
