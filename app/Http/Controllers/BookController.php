@@ -53,7 +53,7 @@ class BookController extends Controller {
 		$data2->available= $data2->total;
 		$data2->save(); 
 		
-		return $insertedId;
+		return view('CreateBookDetails');
 	}
 
 	/**
